@@ -4,7 +4,6 @@
 
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=20481a1219&label=Profile%20views&color=0e75b6&style=flat" alt="20481a1219" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
