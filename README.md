@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Boppa Sri Satya Sai Hruday</h1>
-<h3 align="center">Full Stack / Machine Learning Enthusiastic from India</h3>
 <img align="right" alt="Coding" width="1000" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
