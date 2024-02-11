@@ -1,8 +1,7 @@
 ## 💫 About Me
 
 👋 Hi, I’m <b>Boppa Sri Satya Sai Hruday</b> <br>
-👀 I’m interested in <b>Full Stack Development, Machine Learning</b> <br>
-🌱 I’m currently learning <b>React JS</b> <br>
+👀 I’m interested in <b>Full Stack Development, Machine Learning, Artificial Intelligence</b> <br>
 
 ## 🌐 Connect With Me
 
